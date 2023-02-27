@@ -4,4 +4,4 @@
 
 ### Userlist + Sort by UserId
 
-![Donate](screenshot/promise-fetch.png 'Userlist')
+![Promise/Fetch](screenshot/promise-fetch.png 'Userlist')
